@@ -7,7 +7,7 @@
 <body>
     <header>
         <nav>
-            <a href="index.php">Accueil</a>
+            <a href="/">Accueil</a>
             <?php echo $nav ?>
         </nav>
         
